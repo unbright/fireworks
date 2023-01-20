@@ -6,11 +6,14 @@ Fireworks for Jiayuan
 
 ### 运行
 ```
-yarn install # 安装依赖
-yarn start # 启动
+# 安装依赖
+yarn install
+# 启动
+yarn start 
 ```
 
 ### 构建
 ```
-yarn build # dist目录直接打开index.html
+# dist目录直接打开index.html
+yarn build 
 ```
